@@ -1,3 +1,9 @@
+/*
+* 0-heron.c
+* Author: Rodrigo Zárate Algecira
+* Date: August 06, 2021
+*/
+
 #include <math.h>
 #include "heron.h"
 
